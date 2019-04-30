@@ -1,5 +1,5 @@
 {
-  "name": "chatkit-server",
+  "name": "NodeJs-Starter-Code",
   "version": "1.0.0",
   "description": "A server for chatkit app",
   "main": "app.js",
@@ -14,9 +14,9 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "mongoose": "^5.3.4",
-    "passport": "^0.4.0",
-    "passport-jwt": "^4.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.5.4",
     "validator": "^10.8.0"
   },
   "devDependencies": {
